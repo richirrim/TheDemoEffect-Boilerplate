@@ -1,4 +1,4 @@
-<h1 align="center">POKEDEX UI | Template</h1>
+<h1 align="center">TheDemoEffect-Boilerplate</h1>
 
 ![Banner principal de este repo](images/README/banner-pokedex-ui.png)
 
